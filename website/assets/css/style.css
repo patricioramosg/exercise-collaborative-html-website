@@ -15,3 +15,9 @@ body{
 #contactForm label{
     font-weight: 700;
 }
+
+.jumbotron{
+    background-image:url('../img/bg.jpg');
+    min-height: 70vh;
+    background-position: bottom;
+}
