@@ -1,3 +1,17 @@
 body{
-    background: #BDBDBD;
+    /* background: #BDBDBD; */
+}
+
+#contactForm{
+    background-color: rgb(238, 238, 238);
+    min-width: 700px;
+}
+
+#contactForm input{
+    max-width: 700px;
+    margin-left: 1rem;
+}
+
+#contactForm label{
+    font-weight: 700;
 }
