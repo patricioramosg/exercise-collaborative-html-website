@@ -21,3 +21,57 @@ body{
     min-height: 70vh;
     background-position: bottom;
 }
+
+.parrafouno{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.parrafodos{
+    margin-left: 80px;
+    
+}
+
+.hombre{
+    margin-left:45%;
+}
+
+.parrafotres{
+    margin-left: 40%;
+    display: flex;
+    display: contents;
+}
+
+.parrafocuatro{
+    margin-left: 40%;
+    margin-bottom:30px px;
+    display: flex;
+    display: contents;
+    
+}
+
+.hombreuno{
+    margin-left: 80px;
+}
+
+.computador{
+    margin-left:35%;
+}
+
+.linea1{
+    margin-left: 70px;
+}
+
+.linea2{
+    margin-left: 70px;
+}
+.verdad{
+    width: 300px;
+    margin-left: 60%;
+}
+.linea3{
+    margin-left: 2px;
+    margin-top: 80px;
+}
+.linea5{
+    margin-left: 10px;
+}
